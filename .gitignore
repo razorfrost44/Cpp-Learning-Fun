@@ -2,6 +2,7 @@
 
 .vscode/
 *.exe
+*.exe~
 
 # dependencies
 /node_modules
